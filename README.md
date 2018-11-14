@@ -14,3 +14,6 @@
 
 模型尝试了 resnet50，densenet ，invectionV3，vgg
 ### 3. 进行了图像增强
+
+### 4. 数据分析
+![train](https://github.com/bochuanwu/Agricultural-Disease-Classification/tree/master/dataset/test.png)
