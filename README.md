@@ -7,6 +7,7 @@
 
 完整代码地址：[plants_disease_detection](https://github.com/bochuanwu/Agricultural-Disease-Classification/)
 *成绩**：线上 0.88658
+最终testB前20
 ### 1. 依赖
 
     python3.5 keras2.2.2
