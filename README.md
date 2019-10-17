@@ -13,11 +13,13 @@
     python3.5 keras2.2.2
 ### 2. 模型选择（model chosen）
 
-模型尝试了 resnet50，densenet ，invectionV3，vgg
+模型尝试了 resnet50，densenet ，invectionV3，vgg，bilinear    
+对于resnet50进行小范围调参。
 ### 3. 进行了图像增强（image augmentation）
 旋转（rotate）
 翻转（flip）
 模糊（blur）
+光线变换（relight）
 随机裁剪（random crop）
 
 ### 4. 数据分析（data analysis）
