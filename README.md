@@ -23,4 +23,4 @@
 随机裁剪（random crop）
 
 ### 4. 数据分析（data analysis）
-![train](https://github.com/bochuanwu/Agricultural-Disease-Classification/tree/master/dataset/test.png)
+![train](https://github.com/bochuanwu/Agricultural-Disease-Classification/blob/master/dataset/test.png?raw=true)
